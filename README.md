@@ -37,3 +37,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="https://www.kaggle.com/nourhadrich" width="40" height="40"/>
+</div>  https://www.kaggle.com/nourhadrich
+
