@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me :
-- 🔭 I’m currently working on a DevOps school project
-- 🌱 I’m currently learning Machine/ Deep learning 
+- 🔭 I’m currently studying to get my engineering degree in computer science
 - ⚡ Fun fact: Im a painter 🎨
 
 ## [![trophy](https://github-profile-trophy.vercel.app/?username=2nour)](https://github.com/ryo-ma/github-profile-trophy)
