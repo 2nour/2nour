@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying to get my engineering degree in computer science
 - ⚡ Fun fact: Im a painter 🎨
 
-## [![trophy](https://github-profile-trophy.vercel.app/?username=2nour)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## :hammer_and_wrench: Languages and Tools :
